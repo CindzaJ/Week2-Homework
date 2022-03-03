@@ -1,0 +1,41 @@
+
+body, html {
+    height: 100px;
+  }
+  .bg { 
+    /* The image used */
+    background-image: url("https://www.wallpaperflare.com/digital-digital-art-artwork-illustration-abstract-neon-wallpaper-gjjgo/download/1920x1080");
+    /* Full height */
+    height: 100px;
+    width: 100px; 
+  
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-size: cover;
+    position: relative;
+
+    background-color: rgb(11, 75, 134);
+  }
+
+h1{
+font-family: 'Courier New', 'Courier', 'monospace';
+font-size: 100%;
+font-weight: bold;
+text-align: center;
+}
+
+h2 {
+font-family: 'Courier New', 'Courier', 'monospace';
+font-size: large;
+font-weight: bold;
+font-size: larger;
+text-align: center;
+}
+
+h3 {
+font-family: 'Courier New', 'Courier', 'monospace';
+font-size: large;
+font-weight: bold;
+font-size: larger;
+text-align: center;
+}
